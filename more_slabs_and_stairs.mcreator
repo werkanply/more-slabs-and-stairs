@@ -1,0 +1,42 @@
+{
+  "mod_elements": [
+    {
+      "name": "Heysamarche",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heysamarche"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.heysamarche.descr": "sa marche la caliss",
+      "advancements.heysamarche.title": "Heysamarche"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_slabs_and_stairs",
+    "modName": "more slabs and stairs",
+    "version": "1.0.0",
+    "author": "marek, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.moreslabsandstairs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
